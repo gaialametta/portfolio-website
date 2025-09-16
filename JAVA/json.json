@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Memphis",
+        "date": "October 25, 2024",
+        "description": "Retreat Center",
+        "image": "images/memphis.jpg",
+        "link": "memphis.html"
+    },
+    {
+        "name": "El Paso",
+        "date": "November 8, 2024",
+        "description": "Shoreline Heaven",
+        "image": "images/elpaso.png",
+        "link": "elpaso.html"
+    },
+    {
+        "name": "Oklahoma City",
+        "date": "November 13, 2024",
+        "description": "Sunrise Grove",
+        "image": "images/oklahomacity.jpeg",
+        "link": "oklahomacity.html"
+    },
+    {
+        "name": "Pheonix",
+        "date": "November 20, 2024",
+        "description": "Redwood Sanctuary",
+        "image": "images/pheonix.jpg",
+        "link": "pheonix.html"
+    }
+]
