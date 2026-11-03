@@ -6,6 +6,9 @@ It showcase my project, skills, and contact information.
 ## Technologies Used
 - HTML5
 - CSS3 (Flexbox, Grid, Responsive Design)
+- JavaScript
+- Json
+- P5
 
 ## Author
 Developed by Gaia Lametta
